@@ -1,0 +1,12 @@
+hljshowboy Github如何创建项目
+1.点击添加 可以从本地添加 也可以创建 还可以从网上克隆
+2.点击添加的文件夹 有三个选项 add 文件 add term add atom add 文件 可是直接将所需要的文件拖拽到当前文件夹内 会提示出现 chage 直接点击该新增文件可以进行 修改 
+3.在这之前要commit to master
+
+4.首次 是Publish 以后是sync 同步
+
+5.还没有操作如何合并 pull request
+
+6.不知道如何通过desk修改已经上传的文件
+
+7.尝试合并后 如何进一步处理合并
